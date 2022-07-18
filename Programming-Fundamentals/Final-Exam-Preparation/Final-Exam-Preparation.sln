@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TheImitationGame", "01.TheImitationGame\01.TheImitationGame.csproj", "{5EEF993F-56F5-4B39-8DBE-4FBDA5EC5316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.WorldTour", "01.WorldTour\01.WorldTour.csproj", "{7E9EF099-6DF6-42D7-806F-D0A1065F31E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EEF993F-56F5-4B39-8DBE-4FBDA5EC5316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEF993F-56F5-4B39-8DBE-4FBDA5EC5316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEF993F-56F5-4B39-8DBE-4FBDA5EC5316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEF993F-56F5-4B39-8DBE-4FBDA5EC5316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E9EF099-6DF6-42D7-806F-D0A1065F31E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9EF099-6DF6-42D7-806F-D0A1065F31E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9EF099-6DF6-42D7-806F-D0A1065F31E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9EF099-6DF6-42D7-806F-D0A1065F31E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD49E5F-B796-41FB-9260-CAA07B3CDCD3}
+	EndGlobalSection
+EndGlobal
