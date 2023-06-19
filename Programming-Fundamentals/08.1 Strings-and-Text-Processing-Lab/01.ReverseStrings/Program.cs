@@ -7,11 +7,11 @@ namespace _01.ReverseStrings
     {
         static void Main(string[] args)
         {
-            string text = Console.ReadLine();
-            
             Dictionary<string, string> reversedWords = new Dictionary<string, string>();
 
-            
+            string text = Console.ReadLine();
+
+
             while (text != "end")
             {
                 string reversedText = String.Empty;
