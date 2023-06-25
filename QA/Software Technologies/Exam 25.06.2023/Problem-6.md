@@ -1,0 +1,1 @@
+SELECT DISTINCT town FROM addresses WHERE continent LIKE "Europe"
